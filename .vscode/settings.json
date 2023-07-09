@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "FirstC.C": "cpp",
+        "marks_calculator.C": "cpp",
+        "Calculation_papersize.C": "cpp",
+        "num_digit_sum.C": "cpp",
+        "reverseNumber.C": "cpp",
+        "Area_of_triangle.C": "cpp",
+        "cartesian_to_polar.c": "cpp",
+        "distance_between_two_location.C": "cpp",
+        "cmath": "cpp",
+        "windchill_calculator.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
