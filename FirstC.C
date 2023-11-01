@@ -1,10 +1,11 @@
-# include <stdio.h>
-int main( )
+#include <stdio.h>
+int main()
 {
-float a = 5, b = 2 ;
-int c, d ;
-c=a%b;
-d=a/2;
-printf ( "%d\n", d ) ;
-return 0 ;
+    int x = 10, y = 100 % 90;
+    for (int i = 1; i <= 10; i++)
+        ;
+    if (x != y)
+        ;
+    printf("x = %d y = %d\n", x, y);
+    return 0;
 }
