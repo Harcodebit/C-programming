@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "FirstC.C": "cpp",
-        "cmath": "cpp",
-        "leapYear_Or_Not.C": "cpp",
-        "sum_Of_logarithmic_series.C": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
-}
